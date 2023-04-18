@@ -7,7 +7,7 @@ function menu {
 	write-host "3. Obtener tipo de memoria"
 	write-host "4. Obtener información del disco duro"
 	write-host "5. Obtener información sobre el equipo"
-	write-host "6. Obtener información sobre sobre la placa base"
+	write-host "6. Obtener información sobre la placa base"
 	write-host "7. Obtener información sobre la BIOS"
 	write-host "8. Obtener información sobre la RAM"
 	write-host "9. Salir"

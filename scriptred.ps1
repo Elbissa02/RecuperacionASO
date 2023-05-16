@@ -88,3 +88,5 @@ while (($option = Read-Host -prompt "Selecciona una de las opciones") -ne 7  ){
 		7. {"Exit";}
 	}
 	menu
+
+}

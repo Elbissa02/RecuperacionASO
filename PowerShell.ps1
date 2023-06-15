@@ -11,23 +11,23 @@ function menu {
 $option = read-host "Seleccione una de las opciones"
 
 if ($option -eq 1 ){
-	./hardware.ps1
+	./scripthardware.ps1
 }
 
 if ($option -eq 2 ){
-	./red.ps1
+	./scriptred.ps1
 }
 
 if ($option -eq 3 ){
-	./dominio.ps1
+	./scriptdominio.ps1
 }
 
 if ($option -eq 4 ){
-	./procesos.ps1
+	./scriptprocesos.ps1
 }
 
 if ($option -eq 5 ){
-	./servicios.ps1
+	./scriptservicios.ps1
 }
 
 if ($option -eq 6){
